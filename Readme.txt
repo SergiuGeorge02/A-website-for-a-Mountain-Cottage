@@ -1,6 +1,1 @@
-Thanks for downloading this template!
-
-Template Name: Medicio
-Template URL: https://bootstrapmade.com/medicio-free-bootstrap-theme/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+This is a simple website which was implemented as a project for University. It also has technical documentation, user guide and project schedule
